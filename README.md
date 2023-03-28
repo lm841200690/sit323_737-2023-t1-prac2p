@@ -4,5 +4,5 @@
 run the code
 
 ```
-nodejs index.js
+node index.js
 ```
